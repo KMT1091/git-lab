@@ -1,6 +1,9 @@
 Answer 1: git version 2.17.1
+
 Answer 2: user.name=Kevin, user.email=kt131615@ohio.edu
+
 Answer 3: gives a guide to basic git commands
+
 Answer 4: 
 
 Untracked files:
